@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<PokemonTypes>
+        
+    <Type id="1">
+                
+        <name>Fuego</name>
+                
+        <weaknesses>agua, roca, tierra</weaknesses>
+                
+        <strengths>planta, hielo, bicho, acero</strengths>
+                
+        <resistances>fuego, planta, hielo, bicho, acero, hada</resistances>
+            
+    </Type>
+        
+    <Type id="2">
+                
+        <name>Agua</name>
+                
+        <weaknesses>electrico, planta</weaknesses>
+                
+        <strengths>fuego, roca, tierra</strengths>
+                
+        <resistances>agua, fuego, hielo, acero</resistances>
+            
+    </Type>
+        
+    <Type id="3">
+                
+        <name>Planta</name>
+                
+        <weaknesses>fuego, volador, hielo, bicho, veneno</weaknesses>
+                
+        <strengths>agua, tierra, roca</strengths>
+                
+        <resistances>agua, planta, tierra, electrico</resistances>
+            
+    </Type>
+        
+    <Type id="4">
+                
+        <name>Eléctrico</name>
+                
+        <weaknesses>tierra</weaknesses>
+                
+        <strengths>agua, volador</strengths>
+                
+        <resistances>eléctrico, volador, acero</resistances>
+            
+    </Type>
+        
+    <Type id="5">
+                
+        <name>Hielo</name>
+                
+        <weaknesses>fuego, lucha, roca, acero</weaknesses>
+                
+        <strengths>planta, tierra, volador, dragón</strengths>
+                
+        <resistances>hielo</resistances>
+            
+    </Type>
+        
+    <Type id="6">
+                
+        <name>Lucha</name>
+                
+        <weaknesses>volador, psíquico, hada</weaknesses>
+                
+        <strengths>normal, hielo, roca, siniestro, acero</strengths>
+                
+        <resistances>bicho, roca, siniestro</resistances>
+            
+    </Type>
+        
+    <Type id="7">
+                
+        <name>Veneno</name>
+                
+        <weaknesses>tierra, psíquico</weaknesses>
+                
+        <strengths>planta, hada</strengths>
+                
+        <resistances>planta, lucha, veneno, bicho, hada</resistances>
+            
+    </Type>
+        
+    <Type id="8">
+                
+        <name>Tierra</name>
+                
+        <weaknesses>agua, planta, hielo</weaknesses>
+                
+        <strengths>fuego, eléctrico, roca, acero, veneno</strengths>
+                
+        <resistances>veneno, roca</resistances>
+            
+    </Type>
+        
+    <Type id="9">
+                
+        <name>Volador</name>
+                
+        <weaknesses>eléctrico, hielo, roca</weaknesses>
+                
+        <strengths>planta, lucha, bicho</strengths>
+                
+        <resistances>planta, lucha, bicho</resistances>
+            
+    </Type>
+        
+    <Type id="10">
+                
+        <name>Psíquico</name>
+                
+        <weaknesses>bicho, fantasma, siniestro</weaknesses>
+                
+        <strengths>lucha, veneno</strengths>
+                
+        <resistances>lucha, psíquico</resistances>
+            
+    </Type>
+        
+    <Type id="11">
+                
+        <name>Bicho</name>
+                
+        <weaknesses>fuego, volador, roca</weaknesses>
+                
+        <strengths>planta, psíquico, siniestro</strengths>
+                
+        <resistances>planta, lucha, tierra</resistances>
+            
+    </Type>
+        
+    <Type id="12">
+                
+        <name>Roca</name>
+                
+        <weaknesses>agua, planta, lucha, tierra, acero</weaknesses>
+                
+        <strengths>fuego, hielo, volador, bicho</strengths>
+                
+        <resistances>normal, fuego, veneno, volador</resistances>
+            
+    </Type>
+        
+    <Type id="13">
+                
+        <name>Fantasma</name>
+                
+        <weaknesses>fantasma, siniestro</weaknesses>
+                
+        <strengths>psíquico, fantasma</strengths>
+                
+        <resistances>veneno, bicho</resistances>
+            
+    </Type>
+        
+    <Type id="14">
+                
+        <name>Dragón</name>
+                
+        <weaknesses>hielo, dragón, hada</weaknesses>
+                
+        <strengths>dragón</strengths>
+                
+        <resistances>fuego, agua, eléctrico, planta</resistances>
+            
+    </Type>
+        
+    <Type id="15">
+                
+        <name>Siniestro</name>
+                
+        <weaknesses>lucha, bicho, hada</weaknesses>
+                
+        <strengths>psíquico, fantasma</strengths>
+                
+        <resistances>fantasma, siniestro</resistances>
+            
+    </Type>
+        
+    <Type id="16">
+                
+        <name>Acero</name>
+                
+        <weaknesses>fuego, lucha, tierra</weaknesses>
+                
+        <strengths>hielo, roca, hada</strengths>
+                
+        <resistances>normal, planta, hielo, volador, psíquico, bicho, roca, dragón, acero, hada</resistances>
+            
+    </Type>
+        
+    <Type id="17">
+                
+        <name>Hada</name>
+                
+        <weaknesses>veneno, acero</weaknesses>
+                
+        <strengths>lucha, dragón, siniestro</strengths>
+                
+        <resistances>lucha, bicho, siniestro</resistances>
+            
+    </Type>
+</PokemonTypes>
